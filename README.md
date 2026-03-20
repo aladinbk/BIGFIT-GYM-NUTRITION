@@ -37,12 +37,6 @@ BIGFIT est une plateforme web conçue pour :
 
 ---
 
-## 📸 Screenshots
-
-(Ajoute ici des images de ton site)
-
----
-
 ## ⚙️ Installation
 
 ```bash
