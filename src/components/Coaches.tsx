@@ -7,7 +7,7 @@ export const Coaches: React.FC = () => {
     {
       name: "Ahmed Mansour",
       role: "Head Coach & Founder",
-      image: "https://images.unsplash.com/photo-1567013127542-490d757e51fe?q=80&w=1887&auto=format&fit=crop",
+      image: "https://images.unsplash.com/photo-1507398941214-57f5162123bf?q=80&w=1887&auto=format&fit=crop",
       specialty: "Bodybuilding & Strength"
     },
     {

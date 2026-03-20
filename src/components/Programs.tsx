@@ -26,7 +26,7 @@ export const Programs: React.FC = () => {
       title: "Cours Collectifs",
       desc: "Yoga, Zumba, CrossFit et plus encore. L'énergie du groupe pour se dépasser.",
       icon: <Users className="w-8 h-8 text-blue-400" />,
-      image: "https://images.unsplash.com/photo-1571902258032-783007241151?q=80&w=2070&auto=format&fit=crop"
+      image: "https://images.unsplash.com/photo-1518611012118-29617b0ccd0a?q=80&w=2070&auto=format&fit=crop"
     }
   ];
 
