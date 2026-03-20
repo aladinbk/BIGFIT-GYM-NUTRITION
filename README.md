@@ -2,6 +2,8 @@
 
 Un site web moderne pour une salle de sport en Tunisie, développé avec React et Vite.
 
+🔗 Live Demo : https://bigfitgymnutrition.netlify.app/
+
 ---
 
 ## 🚀 Aperçu
@@ -17,30 +19,50 @@ BIGFIT est une plateforme web conçue pour :
 
 - ⚛️ React
 - ⚡ Vite
-- 🎨 CSS / Tailwind
-- 🌐 Déploiement : Netlify
+- 🎨 Tailwind CSS
+- 🤖 Google Gemini API (IA)
+- 🌐 Netlify (déploiement)
 
 ---
 
 ## ✨ Fonctionnalités
 
 - Interface moderne et responsive 📱
-- Sections organisées :
-  - Hero (landing)
-  - Programmes
-  - Nutrition
-  - Tarifs
-  - Témoignages
-  - Contact
-- Design orienté conversion 💰
 - Navigation fluide
+- Design orienté conversion 💰
+
+### 📌 Sections du site :
+- Hero (Landing)
+- Programmes
+- Nutrition
+- Tarifs
+- Témoignages
+- Contact
+
+---
+
+## 🤖 Nouvelle fonctionnalité : WhatsApp IA
+
+💡 Intégration d’un assistant intelligent connecté à WhatsApp utilisant Google Gemini.
+
+### 🔥 Ce que fait cette IA :
+- Répond automatiquement aux clients
+- Donne des conseils fitness et nutrition
+- Améliore l’expérience utilisateur
+- Automatise le support client
 
 ---
 
 ## ⚙️ Installation
 
 ```bash
-git clone https://github.com/ton-username/bigfit-gym-website.git
-cd bigfit-gym-website
+git clone https://github.com/aladinbk/BIGFIT-GYM-NUTRITION.git
+cd BIGFIT-GYM-NUTRITION
 npm install
 npm run dev
+📦 Build production
+npm run build
+📬 Contact
+
+Projet réalisé par Alaeddine Boubaker
+📧 Contact : alaeddineboubaker@gmail.com
