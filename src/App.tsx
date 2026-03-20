@@ -11,6 +11,7 @@ import { Contact } from './components/Contact';
 import { Footer } from './components/Footer';
 import { PaymentModal } from './components/PaymentModal';
 import { AuthModal } from './components/AuthModal';
+import ChatBot from './components/ChatBot';
 import { motion } from 'framer-motion';
 import { auth } from './firebase';
 import { onAuthStateChanged, User } from 'firebase/auth';
@@ -76,6 +77,8 @@ export default function App() {
         onClose={() => setIsAuthOpen(false)} 
         initialMode={authMode} 
       />
+
+      <ChatBot />
 
       {/* Custom Cursor Effect (Optional but cool for 3D vibe) */}
       <div className="fixed inset-0 pointer-events-none z-[9999] hidden lg:block">

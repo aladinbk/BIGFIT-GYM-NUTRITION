@@ -34,3 +34,22 @@
 .btn-outline {
   @apply px-6 py-3 border-2 border-primary text-primary font-bold rounded-full hover:bg-primary hover:text-black transition-all active:scale-95 flex items-center justify-center gap-2;
 }
+
+/* Custom Scrollbar for Chat */
+.custom-scrollbar::-webkit-scrollbar {
+  width: 4px;
+}
+
+.custom-scrollbar::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+.custom-scrollbar::-webkit-scrollbar-thumb {
+  background: rgba(0, 0, 0, 0.1);
+  border-radius: 10px;
+}
+
+.custom-scrollbar::-webkit-scrollbar-thumb:hover {
+  background: rgba(0, 0, 0, 0.2);
+}
+
